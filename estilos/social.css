@@ -17,11 +17,12 @@ img {
 a {
     display: block;
     background-color: darkred;
-    padding: 20px;
+    padding: 5px;
     text-align: center;
     color: white;
     font-weight: bolder;
     text-decoration: none;
+    border-radius: 0px 0px 10px 10px;
 }
 
 a:hover {
