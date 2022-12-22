@@ -16,13 +16,13 @@ img {
 }
 a {
     display: block;
+    margin-top: -4px;
     background-color: darkred;
     padding: 5px;
     text-align: center;
     color: white;
     font-weight: bolder;
     text-decoration: none;
-    border-radius: 0px 0px 10px 10px;
 }
 
 a:hover {
